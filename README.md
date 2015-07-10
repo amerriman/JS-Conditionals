@@ -1,1 +1,1 @@
-(Live answer)[http://codepen.io/amerriman/pen/vOjrQR]
+[Live answer](http://codepen.io/amerriman/pen/vOjrQR)
